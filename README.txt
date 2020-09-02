@@ -1,3 +1,3 @@
 # hello-world
 Getting Started with GitHub
-Test project
+This is a test project
